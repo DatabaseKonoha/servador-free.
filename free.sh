@@ -1,4 +1,3 @@
-source $FUNCTION
 BASEDIR="$(dirname "$0")"
 source=https://chat.whatsapp.com/LyTYxmXAIb6JVxsXXhBVmm
 EXPIRED="20241210"
